@@ -6,4 +6,5 @@
 # I am using new data (Pin)
 # I am adding new data (text)
 # I am adding new data (Number)
+# I am adding new data (stash)
 
